@@ -1,4 +1,4 @@
-# How to upload file in GitHub.
+## How to upload file in GitHub.
 
 1. git init
 
@@ -13,7 +13,7 @@
 6. git push -u origin main
 
 ## How to run this repo code in your Local Machine?
-1. Download thi postgresql database (url: https://www.postgresql.org/download/)
+1. Download the postgresql database (url: https://www.postgresql.org/download/)
 2. Set database username = postgres and password = root. (Note: By default database username set as postgres and password you have to set.)
 3. Download the postgresql jdbc jar and import in your project. (url: https://jdbc.postgresql.org/download/)
 4. Now you have to configure the database >> follow the below steps...
